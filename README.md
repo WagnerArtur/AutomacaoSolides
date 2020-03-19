@@ -1,6 +1,7 @@
 # AutomacaoSolides
 Automação de candidatura para vaga na Solides!
 
+
 Framework e ferramentas utilizadas para Automação de Testes:
 
 Selenium Webdriver - é uma ferramenta que oferece uma API que permite a escrita de forma mais produtiva e organizada de scripts de testes.
